@@ -46,5 +46,3 @@ Information about the project's license.
 Credits to data providers, contributors, and any references used in the development of this project.
 
 ---
-
-This structure provides a comprehensive overview of your project, making it accessible to both technical and non-technical audiences. Feel free to customize the content to match the specifics of your work and personal style.
