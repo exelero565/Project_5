@@ -40,9 +40,11 @@ Examples of how to execute the modeling pipeline, from data preprocessing to mak
 Guidelines for contributing to the project, including how to propose improvements and submit pull requests.
 
 ### License
-Information about the project's license.
+The project is distributed under the MIT license. You can freely use and distribute this code for personal and commercial purposes with a mandatory link to the author.
 
 ### Acknowledgments
 Credits to data providers, contributors, and any references used in the development of this project.
 
+## Author
+https://github.com/exelero565
 ---
